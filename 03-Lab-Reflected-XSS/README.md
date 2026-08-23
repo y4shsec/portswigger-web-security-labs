@@ -158,25 +158,25 @@ The successful execution/processing of the injected payload demonstrated the XSS
 
 #### Normal Search Page
 
-![Normal Search Page](03-Lab-Reflected-XSS/L01-E01-Normal-search-page.png)
+![Normal Search Page](Evidence/L01-E01-Normal-search-page.png)
 
 **Evidence:** `L01-E01-Normal-search-page.png`
 
 #### Normal Search Request
 
-![Normal Search Burp Request](03-Lab-Reflected-XSS/L01-E02-Normal-search-burp-request.png)
+![Normal Search Burp Request](Evidence/L01-E02-Normal-search-burp-request.png)
 
 **Evidence:** `L01-E02-Normal-search-burp-request.png`
 
 #### XSS Payload Injection
 
-![XSS Payload](03-Lab-Reflected-XSS/L01-E03-XSS-script-inject.png)
+![XSS Payload](Evidence/L01-E03-XSS-script-inject.png)
 
 **Evidence:** `L01-E03-XSS-script-inject.png`
 
 #### Lab Completion
 
-![Lab Solved](03-Lab-Reflected-XSS/L01-E04-XSS-lab-solved.png)
+![Lab Solved](Evidence/L01-E04-XSS-lab-solved.png)
 
 **Evidence:** `L01-E04-XSS-lab-solved.png`
 
@@ -202,19 +202,19 @@ The resulting behavior demonstrated that attacker-controlled content could be pr
 
 #### Normal Post Page
 
-![Normal Post Page](03-Lab-Reflected-XSS/L02-E01-XSS-Normal-View-Post-Page.png)
+![Normal Post Page](Evidence/L02-E01-XSS-Normal-View-Post-Page.png)
 
 **Evidence:** `L02-E01-XSS-Normal-View-Post-Page.png`
 
 #### XSS Payload in Comment Section
 
-![XSS Comment Payload](03-Lab-Reflected-XSS/L02-E02-XSS-script-inject-comment-section.png)
+![XSS Comment Payload](Evidence/L02-E02-XSS-script-inject-comment-section.png)
 
 **Evidence:** `L02-E02-XSS-script-inject-comment-section.png`
 
 #### Lab Completion
 
-![Lab Solved](03-Lab-Reflected-XSS/L02-E03-XSS-lab-solved.png)
+![Lab Solved](Evidence/L02-E03-XSS-lab-solved.png)
 
 **Evidence:** `L02-E03-XSS-lab-solved.png`
 
@@ -245,25 +245,25 @@ The resulting output was analyzed to determine whether the injected content coul
 
 #### Normal Page
 
-![Normal Page](03-Lab-Reflected-XSS/L03-E01-XSS-Normal-page.png)
+![Normal Page](Evidence/L03-E01-XSS-Normal-page.png)
 
 **Evidence:** `L03-E01-XSS-Normal-page.png`
 
 #### Random Alphanumeric Search
 
-![Random Search](03-Lab-Reflected-XSS/L03-E02-XSS-search-random-alphanumberic-string.png)
+![Random Search](Evidence/L03-E02-XSS-search-random-alphanumberic-string.png)
 
 **Evidence:** `L03-E02-XSS-search-random-alphanumberic-string.png`
 
 #### XSS Search Output
 
-![XSS Search Output](03-Lab-Reflected-XSS/L03-E03-XSS-search-script-output.png)
+![XSS Search Output](Evidence/L03-E03-XSS-search-script-output.png)
 
 **Evidence:** `L03-E03-XSS-search-script-output.png`
 
 #### Lab Completion
 
-![Lab Solved](03-Lab-Reflected-XSS/L03-E03-XSS-lab-solved.png)
+![Lab Solved](Evidence/L03-E03-XSS-lab-solved.png)
 
 **Evidence:** `L03-E03-XSS-lab-solved.png`
 
@@ -292,25 +292,25 @@ The resulting response was analyzed to validate whether the injected content was
 
 #### Normal Page
 
-![Normal Page](03-Lab-Reflected-XSS/L04-E01-XSS-Normal-page.png)
+![Normal Page](Evidence/L04-E01-XSS-Normal-page.png)
 
 **Evidence:** `L04-E01-XSS-Normal-page.png`
 
 #### XSS Payload in Search
 
-![XSS Search Injection](03-Lab-Reflected-XSS/L04-E02-XSS-script-inject-search-section.png)
+![XSS Search Injection](Evidence/L04-E02-XSS-script-inject-search-section.png)
 
 **Evidence:** `L04-E02-XSS-script-inject-search-section.png`
 
 #### XSS Search Output
 
-![XSS Search Output](03-Lab-Reflected-XSS/L04-E03-XSS-search-script-output.png)
+![XSS Search Output](Evidence/L04-E03-XSS-search-script-output.png)
 
 **Evidence:** `L04-E03-XSS-search-script-output.png`
 
 #### Lab Completion
 
-![Lab Solved](03-Lab-Reflected-XSS/L04-E04-XSS-lab-solved.png)
+![Lab Solved](Evidence/L04-E04-XSS-lab-solved.png)
 
 **Evidence:** `L04-E04-XSS-lab-solved.png`
 
@@ -339,25 +339,25 @@ The resulting output was inspected to validate the security impact.
 
 #### Normal Feedback Page
 
-![Normal Feedback Page](03-Lab-Reflected-XSS/L05-E01-XSS-Normal-Feedback-page.png)
+![Normal Feedback Page](Evidence/L05-E01-XSS-Normal-Feedback-page.png)
 
 **Evidence:** `L05-E01-XSS-Normal-Feedback-page.png`
 
 #### Normal Slash Input
 
-![Normal Slash](03-Lab-Reflected-XSS/L05-E02-XSS-normal-slash.png)
+![Normal Slash](Evidence/L05-E02-XSS-normal-slash.png)
 
 **Evidence:** `L05-E02-XSS-normal-slash.png`
 
 #### XSS Search Output
 
-![XSS Search Output](03-Lab-Reflected-XSS/L05-E03-XSS-search-script-output.png)
+![XSS Search Output](Evidence/L05-E03-XSS-search-script-output.png)
 
 **Evidence:** `L05-E03-XSS-search-script-output.png`
 
 #### Lab Completion
 
-![Lab Solved](03-Lab-Reflected-XSS/L05-E04-XSS-lab-solved.png)
+![Lab Solved](Evidence/L05-E04-XSS-lab-solved.png)
 
 **Evidence:** `L05-E04-XSS-lab-solved.png`
 
